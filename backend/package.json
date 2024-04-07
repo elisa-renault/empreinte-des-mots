@@ -1,5 +1,5 @@
 {
-  "name": "empreinte-des-mots",
+  "name": "backend",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
@@ -25,7 +25,7 @@
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "5349e51e-4a75-4417-8e9b-018159db4633"
+    "uuid": "cefd418c-03a4-4cec-b5a6-618acb665e1c"
   },
   "engines": {
     "node": ">=18.0.0 <=20.x.x",
